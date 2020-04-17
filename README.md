@@ -1,2 +1,2 @@
 # finor
-New AR app
+Enable AR capabilities in any site.
